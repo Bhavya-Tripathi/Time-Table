@@ -16,3 +16,6 @@ td{
     text-align: center;
     padding: 1%;
 }
+a:hover{
+    background-color: lightblue;
+}
